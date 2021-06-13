@@ -7,6 +7,7 @@ jobs:
       - aws-serverless/install
       - checkout
       - run: yarn
+      - run: CI=false yarn build
       - run: CI=false yarn export
       - run: sam deploy --s3-bucket sam-jonsmedia --stack-name jontarrant --capabilities CAPABILITY_IAM --no-fail-on-empty-changeset
       - run: aws s3 sync ./out s3://jontarrant.me
