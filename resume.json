@@ -1,0 +1,206 @@
+{
+   "profile": {
+      "basics": {
+         "name": "Jonathan Tarrant",
+         "label": "Software Engineer",
+         "picture": "./cvprofile.jpg",
+         "email": "jon@jonsmedia.com",
+         "phone": "07936688509",
+         "website": "www.jonsmedia.com",
+         "summary": "I am a very determined, passionate and focused individual. I truly love what I do and I'm always on the hunt for fresh, exciting techniques and trends to apply to my projects and be at the forefront of today's best practices. I look to innovate and improve workflows by applying my technical skillset everywhere possible within a business. My personality is outgoing, my skillset is broad, I'm resourceful, motivated and looking for the next step up in my career as an engineer.",
+         "location": {
+            "address": "Kent, UK"
+         },
+         "profiles": [
+            {
+               "network": "Twitter",
+               "username": "jon_tarrant",
+               "url": "https://twitter.com/Jon_Tarrant"
+            },
+            {
+               "network": "LinkedIn",
+               "username": "jtarrant",
+               "url": "https://www.linkedin.com/in/jtarrant/"
+            },
+            {
+               "network": "Github",
+               "username": "JonHX",
+               "url": "https://github.com/JonHX/"
+            }
+         ]
+      },
+      "skills": [
+         {
+            "name": "Programming Languages & Libraries",
+            "level": "hello",
+            "keywords": [
+               "php",
+               "javascript",
+               "nodejs",
+               "reactjs",
+               "jquery",
+               "sinon",
+               "mocha",
+               "webpack",
+               "gulp",
+               "grunt",
+               "babel",
+               "css",
+               "less",
+               "mysql",
+               "amphtml",
+               "graphql"
+            ]
+         },
+         {
+            "name": "Software & Platforms",
+            "keywords": [
+               "bootstrap",
+               "iterm",
+               "photoshop",
+               "indesign",
+               "linux",
+               "wordpress",
+               "drupal",
+               "AWS: cloudformation, s3, cloudfront, lambda, ECS, ElasticCache, API Gateway, SQS",
+               "sam local",
+               "cloudflare",
+               "github",
+               "atlassian: Bitbucket, Jira, Confluence",
+               "google analytics",
+               "google tag manager",
+               "google optimize",
+               "google cloud platform",
+               "sumologic - certification",
+               "loggly",
+               "grafana",
+               "ibm cloudant"
+            ]
+         },
+         {
+            "name": "Methods & Workflows",
+            "keywords": [
+               "microservice architecture",
+               "serverless architecture",
+               "agile",
+               "kanban",
+               "scrum",
+               "business driven development",
+               "continuous integration",
+               "pair programming",
+               "REST",
+               "MVC"
+            ]
+         }
+      ],
+      "work": [
+         {
+            "company": "Dunelm",
+            "position": "Software Engineer - Fullstack",
+            "website": "https://www.dunelm.com",
+            "startDate": "2019-06-17",
+            "summary": "I joined Dunelm in order to help them create and launch their branch new fully serverless e-commerce platform. Dunelm being the biggest user of serverless in Europe I architect, develop and maintain world class serverless solutions within AWS Cloudformation Architecture. Within my first 2 months of being at Dunelm I had revolutionised their SEO content management and SEO workflow throughout the business.",
+            "highlights": [
+               "Large monorepo React/Redux(Ducks pattern) Single Page Application front-end",
+               "Pioneering serverless architecture",
+               "React hooks",
+               "TypeScript both back and frontend",
+               "Cucumber automation testing",
+               "Meetings and demos with senior stakeholders in business",
+               "Business scenario driven development"
+            ]
+         },
+         {
+            "company": "Holiday Extras - Short breaks",
+            "position": "Software Engineer",
+            "website": "https://www.holidayextras.co.uk",
+            "startDate": "2018-07-17",
+            "endDate": "2019-06-17",
+            "summary": "After two years at Holiday Extras I was given the opportunity to move into the theatre/theme breaks side of the business 'Shortbreaks' to help in fulfilment of new contracts in a team with a start up mindset. After an exceptional success, the team dissolved to then complete three large fulfillments gained in a short 6 month period. I now work in a new partner team as a fullstack developer in both back end and front end JavaScript environments.",
+            "highlights": [
+               "Front-end/React-Redux and serverside/Node JavaScript development",
+               "Maintaining, monitoring and debugging micro-services and large APIs",
+               "Demoing to stakeholders, creating timelines and meeting deadlines",
+               "Working daily with AWS, Cloudfront, Lambda and IBM Cloud services",
+               "Working alongside Tech Leads, creating detailed plans to solve new business fulfillments. Additionally deciding feasibility and practicality of new projects",
+               "Large external clients such as Merlin Group and Warner"
+            ]
+         },
+         {
+            "company": "Holiday Extras",
+            "position": "Software Engineer",
+            "website": "https://www.holidayextras.co.uk",
+            "startDate": "2016-03-17",
+            "endDate": "2018-07-17",
+            "summary": "At Holiday Extras Airport business I worked alongside the teams technical architect to create and maintain cloud micro services, a highly optimised front-end react static site project and LAMP legacy across 5 brands and multiple languages.",
+            "highlights": [
+               "Working on Nodejs services with some exposure to AWS and lambda",
+               "Creating new react functionality, with page speed and unit tests",
+               "Working in a very agile environment",
+               "Creator and owner of companies Google AMP SEO Strategy, powering over 8000 instant mobile pages across multiple brands and languages.",
+               "Working in a sprint and pod business structure"
+            ]
+         },
+         {
+            "company": "Bryter Digital",
+            "position": "Web Developer",
+            "website": "https://www.holidayextras.co.uk",
+            "startDate": "2015-03-17",
+            "endDate": "2016-03-17",
+            "summary": "Bryter is a full service agency, working there exposed me to SEO, Marketing as well as full stack development on large LAMP based production websites.",
+            "highlights": [
+               "Lead front end developer on large projects",
+               "Creating and maintaining PHP websites to deadlines",
+               "Server maintenance",
+               "Working with clients side by side, advising and deliverying their needs"
+            ]
+         },
+         {
+            "company": "Gforces Web Management Ltd",
+            "position": "Front-end developer",
+            "website": "https://www.gforces.co.uk/",
+            "startDate": "2014-06-17",
+            "endDate": "2015-03-17",
+            "summary": "Working as a front end developer during University I began my web career at Gforces. Working with huge international brands and managing website development and email sends.",
+            "highlights": [
+               "Sticking to strict brand guidelines for huge brands in the automotive industry",
+               "Creating and sending emails and newsletters for companies such as BMW, Vauxhall, Skoda",
+               "Managing 4-5 websites builds at the same time, keeping ticketing systems and the team up to date"
+            ]
+         }
+      ],
+      "education": [
+         {
+            "institution": "University of Kent",
+            "area": "Multimedia Technology & Design",
+            "studyType": "Bachelor of Science",
+            "startDate": "2012-09-01",
+            "endDate": "2015-05-01"
+         },
+         {
+            "institution": "Bexley College",
+            "area": "Creative Media Production",
+            "studyType": "National Diploma",
+            "startDate": "2010-09-01",
+            "endDate": "2012-07-01"
+         }
+      ],
+      "interests": [
+         {
+            "name": "Conferences & Meetups",
+            "keywords": [
+               "Codeharbour Kent Tech Meetup",
+               "Fullstack London 18'",
+               "JSConf Berlin 17'",
+               "Fullstack London 17'",
+               "Google Mobile Conference Munich 17'"
+            ]
+         }
+      ],
+      "awards": [],
+      "volunteer": [],
+      "publications": [],
+      "references": [],
+      "languages": []
+   }
+}
